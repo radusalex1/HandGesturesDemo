@@ -66,9 +66,9 @@ while True:
             className = classNames[classID]
 
             #open an editor and when className = fist ,'a' key will be printed.
-            if className == 'fist':
-                wsh= comclt.Dispatch("WScript.Shell")
-                wsh.SendKeys("a") # send the keys you want
+            # if className == 'fist':
+            #     wsh= comclt.Dispatch("WScript.Shell")
+            #     wsh.SendKeys("a") # send the keys you want
 
             print(className)
 

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "HandGestureProject",
+			"path": "."
+		},
+		{
+			"name": "utils",
+			"path": "../HandGEstureProject-2/hand-gesture-recognition-mediapipe/utils"
+		}
+	],
+	"settings": {}
+}
